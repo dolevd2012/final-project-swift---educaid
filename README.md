@@ -11,6 +11,8 @@
 ## Register success
 ![namingUser](https://user-images.githubusercontent.com/74798510/124409675-6f0acb80-dd51-11eb-9115-cd7b121e8fdd.png)
 
+## Firebase added user
+![userCreatedFireBase](https://user-images.githubusercontent.com/74798510/124410498-497ec180-dd53-11eb-937c-f3ffdbbca6b4.png)
 
 ## initalized Home Page
 ![first home page](https://user-images.githubusercontent.com/74798510/124409660-6ca87180-dd51-11eb-92e6-facbeacc06c4.png)
@@ -29,6 +31,9 @@
 
 ## riddle created success
 ![riddle created success](https://user-images.githubusercontent.com/74798510/124409677-6fa36200-dd51-11eb-9946-0dd84e39c159.png)
+
+## firebase updated with riddle
+![updated firebase user](https://user-images.githubusercontent.com/74798510/124410500-4a175800-dd53-11eb-8f11-8eabb0a0f56a.png)
 
 ## my riddles updated
 ![my riddles updated](https://user-images.githubusercontent.com/74798510/124409670-6e723500-dd51-11eb-9ef2-f8c70fe0dffb.png)
