@@ -20,6 +20,9 @@
 ## image picker
 ![image picker](https://user-images.githubusercontent.com/74798510/124409662-6d410800-dd51-11eb-91c7-a9ec5e4547d1.png)
 
+## updated firebase storage
+![firebase storage](https://user-images.githubusercontent.com/74798510/124410718-bdb96500-dd53-11eb-91ab-4763f85f97b6.png)
+
 ## updated Home Page
 ![first home page with pic](https://user-images.githubusercontent.com/74798510/124409658-6c0fdb00-dd51-11eb-882e-f97e50b61a71.png)
 
