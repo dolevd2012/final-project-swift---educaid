@@ -62,9 +62,9 @@ class scoreBoardViewController: UIViewController {
         loadUserScoreBoardPlacement(uid: sorted[0].uid,place: firstPlaceImage)
         loadUserScoreBoardPlacement(uid: sorted[1].uid,place: secondPlaceImage)
         loadUserScoreBoardPlacement(uid: sorted[2].uid,place: thirdPlaceImage)
-        firstPlaceScore.text = "\(sorted[0].score) p"
-        secondPlaceScore.text = "\(sorted[1].score) p"
-        thirdPlaceScore.text = "\(sorted[2].score) p"
+        firstPlaceScore.text = "\(sorted[0].score) points"
+        secondPlaceScore.text = "\(sorted[1].score) points"
+        thirdPlaceScore.text = "\(sorted[2].score) points"
     }
     
     //MARK: loading specific user image and score to the view
