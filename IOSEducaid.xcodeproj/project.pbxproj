@@ -3,27 +3,61 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E3119D3D2672823400DB6C0B /* EmailpopUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3119D3C2672823400DB6C0B /* EmailpopUpViewController.swift */; };
+		E3119D3F2672A5A200DB6C0B /* WrongLoginInfopopUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3119D3E2672A5A200DB6C0B /* WrongLoginInfopopUpViewController.swift */; };
+		E317587A26922AF100AA546E /* AllRiddlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E317587926922AF100AA546E /* AllRiddlesViewController.swift */; };
+		E317587C26922CD400AA546E /* AllRiddlesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E317587B26922CD400AA546E /* AllRiddlesTableViewCell.swift */; };
+		E340FB5F2671819500FACB2A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E340FB5E2671819500FACB2A /* GoogleService-Info.plist */; };
+		E3884C97268D368E0049E112 /* createRiddleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3884C96268D368E0049E112 /* createRiddleViewController.swift */; };
+		E3A13026268FF9A100C8F2D0 /* riddleAddedSuccessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A13025268FF9A100C8F2D0 /* riddleAddedSuccessViewController.swift */; };
+		E3A5F4CD2691206900A7FDAF /* scoreBoardData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A5F4CC2691206900A7FDAF /* scoreBoardData.swift */; };
+		E3A5F4CF2691398A00A7FDAF /* scoreBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A5F4CE2691398A00A7FDAF /* scoreBoardViewController.swift */; };
+		E3AEC6EA26754E7300937B9D /* RegisterSuccessPopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3AEC6E926754E7300937B9D /* RegisterSuccessPopupViewController.swift */; };
+		E3B1074C266FE937001A700D /* RegisterPAgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B1074B266FE937001A700D /* RegisterPAgeViewController.swift */; };
+		E3B1074E26701E81001A700D /* popUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B1074D26701E81001A700D /* popUpViewController.swift */; };
+		E3C3891326743FD6001888B6 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C3891226743FD6001888B6 /* TableViewController.swift */; };
+		E3C38915267440A9001888B6 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C38914267440A9001888B6 /* TableViewCell.swift */; };
 		E3E7DF29266F9843006ECCDB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E7DF28266F9843006ECCDB /* AppDelegate.swift */; };
 		E3E7DF2B266F9843006ECCDB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E7DF2A266F9843006ECCDB /* SceneDelegate.swift */; };
-		E3E7DF2D266F9843006ECCDB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E7DF2C266F9843006ECCDB /* ViewController.swift */; };
 		E3E7DF30266F9843006ECCDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3E7DF2E266F9843006ECCDB /* Main.storyboard */; };
 		E3E7DF32266F9843006ECCDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3E7DF31266F9843006ECCDB /* Assets.xcassets */; };
 		E3E7DF35266F9843006ECCDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3E7DF33266F9843006ECCDB /* LaunchScreen.storyboard */; };
+		E3E7DF3D266FA276006ECCDB /* UserHomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E7DF3C266FA276006ECCDB /* UserHomePage.swift */; };
+		E3E7DF3F266FAD8D006ECCDB /* LoginPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E7DF3E266FAD8D006ECCDB /* LoginPageViewController.swift */; };
+		ED72D6F4D82399D8E78A579B /* Pods_IOSEducaid.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F9C96EB438AFE86A3B930F38 /* Pods_IOSEducaid.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		31E72B082CF859834CD5B476 /* Pods-IOSEducaid.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IOSEducaid.release.xcconfig"; path = "Target Support Files/Pods-IOSEducaid/Pods-IOSEducaid.release.xcconfig"; sourceTree = "<group>"; };
+		E3119D3C2672823400DB6C0B /* EmailpopUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailpopUpViewController.swift; sourceTree = "<group>"; };
+		E3119D3E2672A5A200DB6C0B /* WrongLoginInfopopUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WrongLoginInfopopUpViewController.swift; sourceTree = "<group>"; };
+		E317587926922AF100AA546E /* AllRiddlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllRiddlesViewController.swift; sourceTree = "<group>"; };
+		E317587B26922CD400AA546E /* AllRiddlesTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllRiddlesTableViewCell.swift; sourceTree = "<group>"; };
+		E340FB5E2671819500FACB2A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		E3884C96268D368E0049E112 /* createRiddleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = createRiddleViewController.swift; sourceTree = "<group>"; };
+		E3A13025268FF9A100C8F2D0 /* riddleAddedSuccessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = riddleAddedSuccessViewController.swift; sourceTree = "<group>"; };
+		E3A5F4CC2691206900A7FDAF /* scoreBoardData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scoreBoardData.swift; sourceTree = "<group>"; };
+		E3A5F4CE2691398A00A7FDAF /* scoreBoardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scoreBoardViewController.swift; sourceTree = "<group>"; };
+		E3AEC6E926754E7300937B9D /* RegisterSuccessPopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterSuccessPopupViewController.swift; sourceTree = "<group>"; };
+		E3B1074B266FE937001A700D /* RegisterPAgeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterPAgeViewController.swift; sourceTree = "<group>"; };
+		E3B1074D26701E81001A700D /* popUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = popUpViewController.swift; sourceTree = "<group>"; };
+		E3C3891226743FD6001888B6 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		E3C38914267440A9001888B6 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		E3E7DF25266F9843006ECCDB /* IOSEducaid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOSEducaid.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3E7DF28266F9843006ECCDB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E3E7DF2A266F9843006ECCDB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E3E7DF2C266F9843006ECCDB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E3E7DF2F266F9843006ECCDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E3E7DF31266F9843006ECCDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E3E7DF34266F9843006ECCDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3E7DF36266F9843006ECCDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3E7DF3C266FA276006ECCDB /* UserHomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserHomePage.swift; sourceTree = "<group>"; };
+		E3E7DF3E266FAD8D006ECCDB /* LoginPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPageViewController.swift; sourceTree = "<group>"; };
+		F9C96EB438AFE86A3B930F38 /* Pods_IOSEducaid.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IOSEducaid.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEFE802AACF900AAEE4F1A18 /* Pods-IOSEducaid.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IOSEducaid.debug.xcconfig"; path = "Target Support Files/Pods-IOSEducaid/Pods-IOSEducaid.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +65,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED72D6F4D82399D8E78A579B /* Pods_IOSEducaid.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6442EE77304805F071C8AF63 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F9C96EB438AFE86A3B930F38 /* Pods_IOSEducaid.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		94F311F00696BF5161B7159A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FEFE802AACF900AAEE4F1A18 /* Pods-IOSEducaid.debug.xcconfig */,
+				31E72B082CF859834CD5B476 /* Pods-IOSEducaid.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		E3E7DF1C266F9842006ECCDB = {
 			isa = PBXGroup;
 			children = (
 				E3E7DF27266F9843006ECCDB /* IOSEducaid */,
 				E3E7DF26266F9843006ECCDB /* Products */,
+				94F311F00696BF5161B7159A /* Pods */,
+				6442EE77304805F071C8AF63 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,13 +110,28 @@
 		E3E7DF27266F9843006ECCDB /* IOSEducaid */ = {
 			isa = PBXGroup;
 			children = (
+				E340FB5E2671819500FACB2A /* GoogleService-Info.plist */,
 				E3E7DF28266F9843006ECCDB /* AppDelegate.swift */,
 				E3E7DF2A266F9843006ECCDB /* SceneDelegate.swift */,
-				E3E7DF2C266F9843006ECCDB /* ViewController.swift */,
+				E3E7DF3C266FA276006ECCDB /* UserHomePage.swift */,
 				E3E7DF2E266F9843006ECCDB /* Main.storyboard */,
 				E3E7DF31266F9843006ECCDB /* Assets.xcassets */,
 				E3E7DF33266F9843006ECCDB /* LaunchScreen.storyboard */,
 				E3E7DF36266F9843006ECCDB /* Info.plist */,
+				E3E7DF3E266FAD8D006ECCDB /* LoginPageViewController.swift */,
+				E3B1074B266FE937001A700D /* RegisterPAgeViewController.swift */,
+				E3B1074D26701E81001A700D /* popUpViewController.swift */,
+				E3119D3C2672823400DB6C0B /* EmailpopUpViewController.swift */,
+				E3119D3E2672A5A200DB6C0B /* WrongLoginInfopopUpViewController.swift */,
+				E3C3891226743FD6001888B6 /* TableViewController.swift */,
+				E3C38914267440A9001888B6 /* TableViewCell.swift */,
+				E3AEC6E926754E7300937B9D /* RegisterSuccessPopupViewController.swift */,
+				E3884C96268D368E0049E112 /* createRiddleViewController.swift */,
+				E3A13025268FF9A100C8F2D0 /* riddleAddedSuccessViewController.swift */,
+				E3A5F4CC2691206900A7FDAF /* scoreBoardData.swift */,
+				E3A5F4CE2691398A00A7FDAF /* scoreBoardViewController.swift */,
+				E317587926922AF100AA546E /* AllRiddlesViewController.swift */,
+				E317587B26922CD400AA546E /* AllRiddlesTableViewCell.swift */,
 			);
 			path = IOSEducaid;
 			sourceTree = "<group>";
@@ -74,9 +143,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = E3E7DF39266F9843006ECCDB /* Build configuration list for PBXNativeTarget "IOSEducaid" */;
 			buildPhases = (
+				C2D3E83D981CE107D51A82CC /* [CP] Check Pods Manifest.lock */,
 				E3E7DF21266F9842006ECCDB /* Sources */,
 				E3E7DF22266F9842006ECCDB /* Frameworks */,
 				E3E7DF23266F9842006ECCDB /* Resources */,
+				DD19871DA2FFA58BE28B3134 /* [CP] Embed Pods Frameworks */,
+				AB631863C3CB940BA74FF6D2 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -125,6 +197,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3E7DF35266F9843006ECCDB /* LaunchScreen.storyboard in Resources */,
+				E340FB5F2671819500FACB2A /* GoogleService-Info.plist in Resources */,
 				E3E7DF32266F9843006ECCDB /* Assets.xcassets in Resources */,
 				E3E7DF30266F9843006ECCDB /* Main.storyboard in Resources */,
 			);
@@ -132,14 +205,87 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		AB631863C3CB940BA74FF6D2 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-IOSEducaid/Pods-IOSEducaid-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-IOSEducaid/Pods-IOSEducaid-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-IOSEducaid/Pods-IOSEducaid-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C2D3E83D981CE107D51A82CC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-IOSEducaid-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DD19871DA2FFA58BE28B3134 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-IOSEducaid/Pods-IOSEducaid-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-IOSEducaid/Pods-IOSEducaid-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-IOSEducaid/Pods-IOSEducaid-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		E3E7DF21266F9842006ECCDB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E3E7DF2D266F9843006ECCDB /* ViewController.swift in Sources */,
 				E3E7DF29266F9843006ECCDB /* AppDelegate.swift in Sources */,
+				E3884C97268D368E0049E112 /* createRiddleViewController.swift in Sources */,
+				E3E7DF3F266FAD8D006ECCDB /* LoginPageViewController.swift in Sources */,
+				E3A5F4CD2691206900A7FDAF /* scoreBoardData.swift in Sources */,
+				E3C3891326743FD6001888B6 /* TableViewController.swift in Sources */,
+				E3AEC6EA26754E7300937B9D /* RegisterSuccessPopupViewController.swift in Sources */,
+				E317587C26922CD400AA546E /* AllRiddlesTableViewCell.swift in Sources */,
+				E317587A26922AF100AA546E /* AllRiddlesViewController.swift in Sources */,
+				E3B1074C266FE937001A700D /* RegisterPAgeViewController.swift in Sources */,
+				E3A13026268FF9A100C8F2D0 /* riddleAddedSuccessViewController.swift in Sources */,
+				E3B1074E26701E81001A700D /* popUpViewController.swift in Sources */,
+				E3C38915267440A9001888B6 /* TableViewCell.swift in Sources */,
 				E3E7DF2B266F9843006ECCDB /* SceneDelegate.swift in Sources */,
+				E3A5F4CF2691398A00A7FDAF /* scoreBoardViewController.swift in Sources */,
+				E3119D3D2672823400DB6C0B /* EmailpopUpViewController.swift in Sources */,
+				E3119D3F2672A5A200DB6C0B /* WrongLoginInfopopUpViewController.swift in Sources */,
+				E3E7DF3D266FA276006ECCDB /* UserHomePage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,6 +429,7 @@
 		};
 		E3E7DF3A266F9843006ECCDB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FEFE802AACF900AAEE4F1A18 /* Pods-IOSEducaid.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -301,10 +448,13 @@
 		};
 		E3E7DF3B266F9843006ECCDB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 31E72B082CF859834CD5B476 /* Pods-IOSEducaid.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = IOSEducaid/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -312,6 +462,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.dolev.IOSEducaid;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

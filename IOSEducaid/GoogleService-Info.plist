@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>631869164288-17mc02r3mku6lhki19vupktka6j58mu9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.631869164288-17mc02r3mku6lhki19vupktka6j58mu9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARokV4QrkXFAQyR-xd_gawrDly4EpmKvg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>631869164288</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dolev.IOSEducaid</string>
+	<key>PROJECT_ID</key>
+	<string>ios--final-project---educaid</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios--final-project---educaid.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:631869164288:ios:782498c9027c45c9aa41e5</string>
+	<key>DATABASE_URL</key>
+	<string>https://ios--final-project---educaid-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
