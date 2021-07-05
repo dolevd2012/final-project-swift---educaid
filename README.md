@@ -1,4 +1,9 @@
 # final-project-swift---educaid
+medical riddles app between other users 
+The app is fully connected to firebase realtime database and firebase storage
+some featues of the app: Login/Register , imagepicker from gallery , popups for missing information , 
+personal riddles tableView , entire app users riddles , top 3 players scoreboard ! 
+
 
 in order to run the app i used firebase Auth , firebase storage , firebase real time database
 ```
