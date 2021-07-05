@@ -1,6 +1,6 @@
 # final-project-swift---educaid
 
-in order to run the app i used firebase Auth , firebase storage 
+in order to run the app i used firebase Auth , firebase storage , firebase real time database
 ```
       pod 'Firebase/Storage'
       pod 'Firebase/Analytics'
