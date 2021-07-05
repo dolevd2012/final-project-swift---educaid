@@ -8,5 +8,12 @@
 ![register page](https://user-images.githubusercontent.com/74798510/124409676-6fa36200-dd51-11eb-9da5-5cf59a519c9c.png)
  
  
-# Register success
+## Register success
 ![namingUser](https://user-images.githubusercontent.com/74798510/124409675-6f0acb80-dd51-11eb-9115-cd7b121e8fdd.png)
+
+
+## initalized Home Page
+![first home page](https://user-images.githubusercontent.com/74798510/124409660-6ca87180-dd51-11eb-92e6-facbeacc06c4.png)
+
+## image picker
+![image picker](https://user-images.githubusercontent.com/74798510/124409662-6d410800-dd51-11eb-91c7-a9ec5e4547d1.png)
