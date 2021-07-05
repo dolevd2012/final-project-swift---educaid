@@ -4,13 +4,19 @@ The app is fully connected to firebase realtime database and firebase storage
 some featues of the app: Login/Register , imagepicker from gallery , popups for missing information , 
 personal riddles tableView , entire app users riddles , top 3 players scoreboard ! 
 
-
+### pods
 in order to run the app i used firebase Auth , firebase storage , firebase real time database
 ```
       pod 'Firebase/Storage'
       pod 'Firebase/Analytics'
       pod 'Firebase/Database'
       pod 'FirebaseUI/Auth'
+```
+
+### tiny problem 
+```
+the table views controllers loads faster than the app getting the information from firebase 
+so in order to fix that you need to revisit the tab it will refresh the cells
 ```
 
 The photo's demonstrate some of the app, not all of it 
@@ -61,9 +67,3 @@ The photo's demonstrate some of the app, not all of it
 ## Scoreboard
 ![scoreboard](https://user-images.githubusercontent.com/74798510/124409678-703bf880-dd51-11eb-98f3-1d9c72472511.png)
 
-
-### tiny problem 
-```
-the table views controllers loads faster than the app getting the information from firebase 
-so in order to fix that you need to revisit the tab it will refresh the cells
-```
