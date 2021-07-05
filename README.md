@@ -1,5 +1,13 @@
 # final-project-swift---educaid
 
+in order to run the app i used firebase Auth , firebase storage 
+```
+      pod 'Firebase/Storage'
+      pod 'Firebase/Analytics'
+      pod 'Firebase/Database'
+      pod 'FirebaseUI/Auth'
+```
+
 ## Login/Register screen
 ![first page](https://user-images.githubusercontent.com/74798510/124409661-6d410800-dd51-11eb-8b79-a2910bb029ca.png)
 
