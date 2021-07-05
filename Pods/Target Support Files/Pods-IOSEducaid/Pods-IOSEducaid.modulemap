@@ -1,0 +1,6 @@
+framework module Pods_IOSEducaid {
+  umbrella header "Pods-IOSEducaid-umbrella.h"
+
+  export *
+  module * { export * }
+}
