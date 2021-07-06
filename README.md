@@ -5,7 +5,7 @@ some featues of the app: Login/Register , imagepicker from gallery , popups for 
 personal riddles tableView , entire app users riddles , top 3 players scoreboard ! 
 
 ### pods
-in order to run the app i used firebase Auth , firebase storage , firebase real time database
+in order to create the app i used firebase Auth , firebase storage , firebase real time database
 ```
       pod 'Firebase/Storage'
       pod 'Firebase/Analytics'
