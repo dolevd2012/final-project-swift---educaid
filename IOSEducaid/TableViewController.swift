@@ -18,6 +18,10 @@ class TableViewController: UIViewController, CustomCellUpdater {
         print("First Time in myRiddles")
         getUserRiddles()
         tableView.dataSource = self
+        DispatchQueue.main.asyncAfter(deadline: .now() + 1, execute: {
+            self.tableView.reloadData()
+            
+        })
     }
     
     func getUserRiddles(){
@@ -42,6 +46,7 @@ class TableViewController: UIViewController, CustomCellUpdater {
           }) { (error) in
             print(error.localizedDescription)
         }
+        
     }
 
 }

@@ -19,8 +19,11 @@ class AllRiddlesViewController: UIViewController,AllRiddlesCellUpdater {
     override func viewDidLoad() {
         super.viewDidLoad()
         getAllOtherUsersRiddles()
-
         allRiddlesTableView.dataSource = self
+        DispatchQueue.main.asyncAfter(deadline: .now() + 1, execute: {
+            self.allRiddlesTableView.reloadData()
+            
+        })
     }
     
 }
