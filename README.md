@@ -13,12 +13,6 @@ in order to run the app i used firebase Auth , firebase storage , firebase real 
       pod 'FirebaseUI/Auth'
 ```
 
-### tiny problem 
-```
-the table views controllers loads faster than the app getting the information from firebase 
-so in order to fix that you need to revisit the tab it will refresh the cells
-```
-
 The photo's demonstrate some of the app, not all of it 
 ## Login/Register screen
 ![first page](https://user-images.githubusercontent.com/74798510/124409661-6d410800-dd51-11eb-8b79-a2910bb029ca.png)
